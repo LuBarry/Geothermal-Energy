@@ -38,11 +38,11 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
-repo: hanuman #github repository
+username: Barry #github username
+repo: Barry #github repository
 branch: master #branch
-relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
+relative_source: ../Geothermal-Energy/ #source directory
+destination: ../Geothermal-Energy/ #destination directory
 production_url:  
 source_url: https://github.com/LuBarry/Geothermal-Energy/ #source repository url
 

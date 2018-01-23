@@ -44,7 +44,7 @@ branch: master #branch
 relative_source: ../Geothermal-Energy/ #source directory
 destination: ../Geothermal-Energy/ #destination directory
 production_url:  
-source_url: https://github.com/LuBarry/Geothermal-Energy/ #source repository url
+source_url: https://lubarry.github.io/Geothermal-Energy/ #source repository url
 
 exclude:
   - README.md

@@ -1,10 +1,10 @@
 # Site settings
-title: Hanuman
+title: /Geothermal Energy
 description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/Golthermal/" # the subpath of your site, e.g. /blog/ or / for root
+baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
 url: https://github.com/LuBarry/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 

@@ -8,4 +8,3 @@ permalink: /about/
 "></amp-img>
 
 This website is made by Burry Lu from the group of geothermal energy. Our group members are Burry Lu, David Lu, Eric Zhou and Ori Wu. We promote to made this website in order to introduce geothermal energy to people.
-\\"http://lorempixel.com/600/300/sports"

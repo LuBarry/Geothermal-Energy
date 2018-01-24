@@ -1,3 +1,4 @@
+---
 layout: post
 cover: 'assets/images/tree.jpg'
 title: Test

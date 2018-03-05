@@ -12,10 +12,10 @@ This website is made by Burry Lu from the group of geothermal energy. Our group 
   If you have some interesting passages want to share or you have some questions about us, please send us by Email: ly55894729@163.com.
     <p>
       Thank you very much!!!
+      <p>
     
     <script>
 var host=location.host;//主机头
 var inet=host.toLowerCase().indexOf('https://space.bilibili.com/6358179/#/')!=-1//外网////////
 document.write('<a href="https://space.bilibili.com/6358179/#/">My Bilibli Homepage</a>');
 </script>
-</font>

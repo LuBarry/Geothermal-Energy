@@ -9,13 +9,10 @@ permalink: /about/
 
 This website is made by Burry Lu from the group of geothermal energy. Our group members are Burry Lu, David Lu, Eric Zhou and Ori Wu. We promote to made this website in order to introduce geothermal energy to people.
 <p>
-  If you have some interesting passages want to share or you have some questions about us, please send us by Email: ly55894729@163.com.
-    <p>
-      Thank you very much!!!
-      <p>
+  If you have some interesting passages want to share or you have some questions about us, please send us by Email: ly55894729@163.com. Thank you very much!!!
     
     <script>
 var host=location.host;//主机头
-var inet=host.toLowerCase().indexOf('https://space.bilibili.com/6358179/#/')!=-1//外网////////
-document.write('<a href="https://space.bilibili.com/6358179/#/">My Bilibli Homepage</a>');
+var inet=host.toLowerCase().indexOf('https://cn.bing.com/videos/search?q=geothermal+energy&go=Search&qs=ds&form=QBVR')!=-1//外网////////
+document.write('<a href="https://cn.bing.com/videos/search?q=geothermal+energy&go=Search&qs=ds&form=QBVR" See more video about the Geothermal </a>');
 </script>

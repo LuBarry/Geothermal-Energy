@@ -13,3 +13,9 @@ This website is made by Burry Lu from the group of geothermal energy. Our group 
     <p>
       Thank you very much!!!
     
+    <script>
+var host=location.host;//主机头
+var inet=host.toLowerCase().indexOf('https://space.bilibili.com/6358179/#/')!=-1//外网////////
+document.write('<a href="https://space.bilibili.com/6358179/#/">My Bilibli Homepage</a>');
+</script>
+</font>

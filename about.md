@@ -14,5 +14,5 @@ This website is made by Burry Lu from the group of geothermal energy. Our group 
     <script>
 var host=location.host;//主机头
 var inet=host.toLowerCase().indexOf('https://cn.bing.com/videos/search?q=geothermal+energy&go=Search&qs=ds&form=QBVR')!=-1//外网////////
-document.write('<a href="https://cn.bing.com/videos/search?q=geothermal+energy&go=Search&qs=ds&form=QBVR" See more video about the Geothermal </a>');
+document.write('<a href="https://cn.bing.com/videos/search?q=geothermal+energy&go=Search&qs=ds&form=QBVR" >See more video about the Geothermal </a>');
 </script>
